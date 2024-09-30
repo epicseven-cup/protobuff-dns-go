@@ -1,0 +1,1 @@
+module protobuff-dns-go
